@@ -5,14 +5,15 @@ Hi there, I'm Jhahnavi 👋
 🐍 Learning Python & Machine Learning  
 🚀 Building projects and improving skills every day  
 
-Skills & Technologies
-> Java
-> Python
-> Android Studio
-> XML
-> Machine Learning Basics
-> Git & GitHub
-> SQL / DBMS
+👩‍💻 Skills & Technologies
+
+- Java  
+- Python  
+- Android Studio  
+- XML  
+- Machine Learning Basics  
+- Git & GitHub  
+- SQL / DBMS
 
 🌱 Currently Learning
 
