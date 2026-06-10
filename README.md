@@ -1,16 +1,37 @@
-## Hi there 👋
+Hi there, I'm Jhahnavi 👋
 
-<!--
-**JhahnaviShetty/JhahnaviShetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student from Bangalore  
+💻 Passionate about Android Development & Java  
+🐍 Learning Python & Machine Learning  
+🚀 Building projects and improving skills every day  
 
-Here are some ideas to get you started:
+Skills & Technologies
+> Java
+> Python
+> Android Studio
+> XML
+> Machine Learning Basics
+> Git & GitHub
+> SQL / DBMS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+
+📌 Android App Development  
+📌 Machine Learning  
+📌 Java Projects  
+📌 Real-world Software Development
+
+🚀 Projects
+- Android Login App  
+- Screen Orientation App  
+- Machine Learning Lab Programs  
+- Student Management System  
+- GeeksClone Website Project  
+
+🎯 Goals
+✨ Become financially independent  
+✨ Build impactful tech projects  
+✨ Keep learning and growing every day
+
+📫 Connect with me
+Learning • Building • Growing 🚀
